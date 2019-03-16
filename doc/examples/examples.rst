@@ -797,24 +797,9 @@ We’ll look more at the solution to this “barotropic jet” setup in later tu
 
 
 
-.. _sec_eg_baroclinic:
-
-Four layer Baroclinic Ocean Gyre In Spherical Coordinates
-=========================================================
-
-This document describes an example experiment using MITgcm to simulate a
-baroclinic ocean gyre for four layers in spherical polar coordinates.
-The files for this experiment can be found in :filelink:`verification/tutorial_baroclinic_gyre`.
-
-.. toctree::
-
-  baroclinic_gyre/overview.rst
-
-
-
 .. _sec_eg_tank:
 
-A Rotating Tank in !Cylindrical Coordinates
+A Rotating Tank in Cylindrical Coordinates
 ==========================================
 
   (in directory: :filelink:`verification/rotating_tank/`)
