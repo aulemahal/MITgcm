@@ -587,6 +587,8 @@ these are not the rule;
 -  The presence of false extrema is non-physical and this alone is the
    strongest argument for using a positive scheme.
 
+.. _shapiro_filter:
+
 Shapiro Filter
 ==============
 
