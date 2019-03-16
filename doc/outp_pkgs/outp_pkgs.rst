@@ -1579,6 +1579,7 @@ in-memory structure) coinciding with the start of the specified slice.
 Thus, using this offset array mechanism, a slice can be written along
 any single dimension or combinations of dimensions.
 
+.. _sec_outp_pkg_monitor:
 
 Monitor: Simulation State Monitoring Toolkit
 ============================================
